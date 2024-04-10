@@ -4,7 +4,7 @@ body{
 }
 
 div{
-   
+    
     margin: 100px;
     padding: 100px;
     border: solid 2px aliceblue;
@@ -46,7 +46,12 @@ p{
     background-color: rgb(70, 70, 70);
     border: none;
     height: 45px;
-    width: 300px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 92px;
+    
 }
 
 button{
